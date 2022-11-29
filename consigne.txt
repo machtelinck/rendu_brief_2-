@@ -1,0 +1,17 @@
+Vous travaillez pour l'un de ces managers, 
+il a besoin d'informations sur les différentes villes de son pays 
+afin de trouver de nouveaux axes de développement commercial.
+
+​
+
+Ces informations seront présentées sous la forme d'un "tabular dashboard".
+ (notion inventée ad hoc par besoin pédagogique car nous verrons la visualisation plus tard).   
+ Ce "tabular dashboard" sera présentée sur une aplication web déployée
+  en locale à l'aide du framework Django.
+Cette application contiendra deux types de page:
+
+une home page comprennant une carte du pays choisi sur lequel on retrouve les villes sur lesquelles vous avez des données.
+
+une page "détail-pays" qui reprend l'ensemble des questions
+ posées par votre manager et qui en apporte une réponse 
+sous la forme d'un chiffre ou d'un tableau
